@@ -1,0 +1,22 @@
+.github/workflows/aqua-trivy-orchestration.yml
+  7831ae52-7447-4173-b6c8-f76c909081a2 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9a74bc33641a370e32d3f0501740c707d31db537",
+  "prompts": {
+    "e85dbb4b1213b8ec": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7831ae52-7447-4173-b6c8-f76c909081a2",
+        "model": "auto-smart"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
