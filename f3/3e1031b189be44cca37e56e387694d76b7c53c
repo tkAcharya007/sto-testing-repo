@@ -1,0 +1,28 @@
+.github/workflows/aqua-trivy-orchestration.yml
+  7831ae52-7447-4173-b6c8-f76c909081a2 32,50-51,68
+.github/actions/harness-sto/action.yml
+  7831ae52-7447-4173-b6c8-f76c909081a2 14-16,24-26,29-31,245-248,418-445,447-449,459-468,523,554,556-557,560,583-584,587,589,603
+.github/workflows/aqua-trivy-local-image.yml
+  7831ae52-7447-4173-b6c8-f76c909081a2 37,53,70
+.github/workflows/security-scan.yml
+  7831ae52-7447-4173-b6c8-f76c909081a2 31,43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f33e1031b189be44cca37e56e387694d76b7c53c",
+  "prompts": {
+    "e85dbb4b1213b8ec": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7831ae52-7447-4173-b6c8-f76c909081a2",
+        "model": "auto-smart"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "total_additions": 69,
+      "total_deletions": 25,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
