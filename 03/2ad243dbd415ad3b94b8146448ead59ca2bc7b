@@ -1,0 +1,48 @@
+.github/workflows/anchore-ingestion.yml
+  694d5d98-2a39-4ceb-8c16-f32e400be996 39-40
+.github/actions/harness-sto/action.yml
+  s_6f6eb5c289699a::t_f64d9cdb6e02ab 16,18,23,58-64,111-113,117-119,444-478,542-543,545-554,557-570
+action.yml
+  s_6f6eb5c289699a::t_3182739d5ffcc1 18,23,58-64,111-113,117-119,444-478,542-543,545-554,557-570
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "032ad243dbd415ad3b94b8146448ead59ca2bc7b",
+  "prompts": {
+    "6f6eb5c289699a8d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "694d5d98-2a39-4ceb-8c16-f32e400be996",
+        "model": "auto-smart"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "total_additions": 2,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "8be4a34ee5113bd0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a6aa731a-8c1b-408a-8851-5a695ec010d7",
+        "model": "auto-smart"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "total_additions": 88,
+      "total_deletions": 18,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_6f6eb5c289699a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "694d5d98-2a39-4ceb-8c16-f32e400be996",
+        "model": "auto-smart"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>"
+    }
+  }
+}
