@@ -1,0 +1,83 @@
+action.yml
+  b2fd68af-0545-4bec-be7e-16d497d04a0e 16-18,20,25
+  human 16,18,23
+.github/actions/harness-sto/action.yml
+  b2fd68af-0545-4bec-be7e-16d497d04a0e 16-18,20,25
+  human 16,18,23
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 5,
+          "added_lines": 5,
+          "deleted_lines": 3,
+          "hash": "b2fd68af-0545-4bec-be7e-16d497d04a0e",
+          "lines": "16-18,20,25",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 3,
+          "hash": "human",
+          "lines": "16,18,23",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "action.yml"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 5,
+          "added_lines": 5,
+          "deleted_lines": 3,
+          "hash": "b2fd68af-0545-4bec-be7e-16d497d04a0e",
+          "lines": "16-18,20,25",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 3,
+          "hash": "human",
+          "lines": "16,18,23",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".github/actions/harness-sto/action.yml"
+    }
+  ],
+  "base_commit_sha": "1a40f9506978af2102044a621cde4ed87b96a645",
+  "branch": "main",
+  "commit_sha": "671e7314276da9cb8a0c9b0f9dd05252e1bb003f",
+  "commit_time": "2026-08-31T16:55:35+05:30",
+  "commit_type": "direct_commit",
+  "harness_aidlc_version": "1.4.32",
+  "prompts": {
+    "b2fd68af-0545-4bec-be7e-16d497d04a0e": {
+      "accepted_lines": 10,
+      "agent_id": {
+        "id": "b2fd68af-0545-4bec-be7e-16d497d04a0e",
+        "model": "auto-smart",
+        "tool": "cursor"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "overriden_lines": 0,
+      "total_additions": 10,
+      "total_deletions": 6
+    },
+    "human": {
+      "accepted_lines": 0,
+      "agent_id": null,
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "overriden_lines": 0,
+      "total_additions": 0,
+      "total_deletions": 6
+    }
+  },
+  "repo": "https://github.com/tkAcharya007/sto-testing-repo",
+  "schema_version": "authorship/3.0.0"
+}
