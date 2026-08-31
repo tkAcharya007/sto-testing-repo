@@ -1,0 +1,22 @@
+.github/actions/harness-sto/action.yml
+  4052e0c3-0de3-4ba0-9661-6b3cfd469a77 162-165,604
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "0be0542d1370ac7e6fb97ca44e03f558d3ad71f5",
+  "prompts": {
+    "ea613da49df1aa66": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4052e0c3-0de3-4ba0-9661-6b3cfd469a77",
+        "model": "auto-smart"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
