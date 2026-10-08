@@ -1,0 +1,22 @@
+.github/workflows/aqua-trivy-local-image-no-threshold.yml
+  f730c474-d180-4690-bcdb-2481c07f54fa 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d1a1d1c9166906687c21d0b13239725b80e8b9c",
+  "prompts": {
+    "d531b7917872149c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f730c474-d180-4690-bcdb-2481c07f54fa",
+        "model": "auto-smart"
+      },
+      "human_author": "Tarun Kumar Acharya <tarunkumar.acharya@harness.io>",
+      "total_additions": 89,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
