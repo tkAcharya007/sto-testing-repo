@@ -36,8 +36,8 @@ jobs:
 
       - name: Build Docker Image
         run: |
-          docker pull node:14
-          docker tag node:14 sg123:${{ github.sha }}
+          docker pull python:3.4-alpine
+          docker tag python:3.4-alpine sg123:${{ github.sha }}
 
       - name: Run Harness STO Scan
         id: sto-scan
